@@ -9,6 +9,8 @@ mongoose.connect(process.env.DATABASE_LOCAL).then(()=> console.log('Databse Conn
 
 
 
+
+
 // console.log(process.env);   process.env.DATABASE_LOCAL
 
 // newTour.save().then(doc=>console.log(doc)).catch(err=>console.log(err));
